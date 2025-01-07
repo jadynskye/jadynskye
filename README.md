@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jadyn Reid</h1>
 <h3 align="center">A passionate full stack developer from Pennsylvania</h3>
 
-- 🔭 I’m currently working on **building a new video game**
+- 🔭 I’m currently working on **finishing college and building new games along the way**
 
-- 🌱 I’m currently learning **learning python**
+- 🌱 I’m currently learning ** python**
 
 - 👯 I’m looking to collaborate on **video game development**
 
