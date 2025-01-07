@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jadyn Reid</h1>
 <h3 align="center">A 3rd year computer science student at Florida Atlantic University with a passion for startups and app/game development from Pennsylvania</h3>
 
-- 🔭 I’m currently working on **building a new video game**
+- 🔭 I’m currently working on **brainstorming ideas for a new ios app**
 
 - 🌱 I’m currently learning **python**
 
