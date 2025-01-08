@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👯 I’m looking to collaborate on **video game development**
+- 👯 I’m looking to collaborate on **app/game development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jadynskye](https://github.com/jadynskye)
 
