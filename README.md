@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **game development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jadynskye](https://github.com/jadynskye)
+- 👨‍💻 All of my projects are available in my repositories!
 
 - 📫 How to reach me **jsreid02@gmail.com**
 
