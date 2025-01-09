@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jadyn Reid</h1>
-<h3 align="center">A third-year computer science student minoring in AI at Florida Atlantic University with a passion for startups and app/game development. I enjoy transforming ideas into real-world solutions and solving problems through technology.</h3>
+<h3 align="center">A third-year computer science student minoring in AI at Florida Atlantic University with a passion for startups, app, and game development. I enjoy transforming ideas into real-world solutions and solving problems through technology.</h3>
 
 - 🔭 I’m currently working on **finishing my degree and developing a new ios app**
 
