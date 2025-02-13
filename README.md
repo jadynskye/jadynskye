@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jadyn Reid</h1>
 <h3 align="center">I'm a third-year computer science student minoring in AI at Florida Atlantic University with a passion for startups, app, and game development. I enjoy transforming ideas into real-world solutions and solving problems through technology.</h3>
 
-- 🔭 I’m currently working on **completing my degree and strengthening my coding skills**
+- 🔭 I’m currently working on **completing my degree and developing an RPG**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **SQL, Jira, and Python**
 
-- 👯 I’m looking to collaborate on **game development**
+- 👯 I’m looking to collaborate on **any game development**
 
 - 👨‍💻 All of my projects are available in my repositories!
 
-- 📫 How to reach me **jsreid02@gmail.com**
+- 📫 How to reach me **jadynreidsfe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
