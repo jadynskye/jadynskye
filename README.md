@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, Jira, and Python**
 
-- 👯 I’m looking to collaborate on **any game development**
+- 👯 I’m looking to collaborate on **innovative software solutions and challenging engineering projects!**
 
 - 👨‍💻 All of my projects are available in my repositories!
 
