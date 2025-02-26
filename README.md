@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jadyn Reid</h1>
-<h3 align="center">I'm a third-year computer science student minoring in AI at Florida Atlantic University with a passion for startups and game development. I’m dedicated to using technology to solve problems and bring ideas to life.</h3>
+<h3 align="center">I'm a third-year computer science student minoring in AI and Cyber Security at Florida Atlantic University with a passion for startups and game development. I’m dedicated to using technology to solve problems and bring ideas to life.</h3>
 
 - 🔭 I’m currently working on **completing my degree and developing an RPG on Unity with C#**
 
