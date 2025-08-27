@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jadyn Reid</h1>
-<h3 align="center">I'm a third-year computer science student minoring in AI and Cyber Security at Florida Atlantic University with a passion for using technology to solve problems and bring ideas to life.</h3>
+<h3 align="center"> I’m a student at Florida Atlantic University pursuing a B.S. in Computer Science with minors in Artificial Intelligence and Cybersecurity. I’m passionate about using technology to solve problems, build creative projects, and bring ideas to life.</h3>
 
-- 🔭 I’m currently working on **completing my degree and strengthening my coding skills**
+- 🔭 I’m currently working on **my project Safe&Sound Security **
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **HTML and CSS  (and exploring more frontend development)**
 
-- 👯 I’m looking to collaborate on **innovative software solutions and challenging engineering projects!**
+- 👯 I’m looking to collaborate on **projects related to smart home technology, security systems, and creative frontend dashboards**
 
 - 👨‍💻 All of my projects are available in my repositories!
 
