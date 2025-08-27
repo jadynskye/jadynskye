@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **completing my degree and strengthening my coding skills**
 
-- 🌱 I’m currently learning **SQL, Python, and working on Jira**
+- 🌱 I’m currently learning **HTML and CSS**
 
 - 👯 I’m looking to collaborate on **innovative software solutions and challenging engineering projects!**
 
