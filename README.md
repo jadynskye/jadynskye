@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jadyn Reid</h1>
 <h3 align="center"> I’m a student at Florida Atlantic University pursuing a B.S. in Computer Science with minors in Artificial Intelligence and Cybersecurity. I’m passionate about using technology to solve problems, build creative projects, and bring ideas to life.</h3>
 
-- 🔭 I’m currently working on **my project Safe&Sound Security **
+- 🔭 I’m currently working on my project Safe&Sound Security
 
 - 🌱 I’m currently learning **HTML and CSS  (and exploring more frontend development)**
 
